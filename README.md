@@ -56,7 +56,7 @@
 
 > ⚠️ *Para que o ranking funcione*, é necessário um servidor backend local rodando na porta 3000 (endpoints /pontuar e /ranking).
 
-De maneira simplificada, acesse o link memory-game-puce-mu.vercel.app.
+De maneira simplificada, acesse o link descrito no início do ReadMe: https://memory-game-puce-mu.vercel.app.
 O banco de dados foi feito num servidor local de forma que o acesso a ele apenas é realizado na mesma rede em que o computador principal está conectado, onde o servidor foi criado.
 
 ## 📂 Estrutura de diretórios
